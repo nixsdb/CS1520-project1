@@ -6,20 +6,16 @@ You must submit an information sheet with every assignment. Also be sure to
 submit all materials following the procedures described on the submission
 procedures page.
 
-Name: 
+Name: Shane Brewer
 
-Lecture section: 
+Lecture section: 1100
 
-Assignment #:  
+Assignment #: 1
 
-Does your project run without error?:
+Does your project run without error?: App.test.jsx works, and I beat my roommate
 
 If not, what is/are the error(s) and which parts of your program run
 correctly?:
 
-
-
-Additional comments to the grader:
-
-
-
+Additional comments to the grader: hello!
+i used online beautifiers to make my code less ugly
